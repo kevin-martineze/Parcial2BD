@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App Servicios Publicos</string>
+    <string name="action_listado">Listado de registros</string>
+    <string name="modificar_registro">Modificar Registro</string>
+    <string name="borrar_registro">Borrar Registro</string>
+
+    <string name="direccion">Direccion:</string>
+    <string name="medida">Valor del Medidor:</string>
+    <string name="tipo_servicio">Tipo de servicio:</string>
+    <string name="unidad_agua">m^3</string>
+    <string name="unidad_luz">kw/h</string>
+    <string name="unidad_gas">cc</string>
+
+    <string name="bt_guardar">Guardar</string>
+    <string name="bt_cancelar">Cancelar</string>
+
+    <string name="bt_eliminar">Eliminar registro</string>
+    <string name="bt_actualizar">Actualizar registro</string>
+
+</resources>

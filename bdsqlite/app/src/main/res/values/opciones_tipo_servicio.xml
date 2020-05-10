@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_tipo_servicio">
+        <item>Agua</item>
+        <item>Luz</item>
+        <item>Gas</item>
+    </string-array>
+</resources>
